@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Bezier.cpp
+C:\Users\40744\Desktop\gag lab\EGC_Bezier\Bezier curves\EGC_Bezier\Bezier.cpp(20,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\40744\Desktop\gag lab\EGC_Bezier\Bezier curves\EGC_Bezier\Bezier.cpp(20,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\40744\Desktop\gag lab\EGC_Bezier\Bezier curves\EGC_Bezier\Bezier.cpp(48,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\40744\Desktop\gag lab\EGC_Bezier\Bezier curves\EGC_Bezier\Bezier.cpp(48,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  EGC_Bezier.cpp
+C:\Users\40744\Desktop\gag lab\EGC_Bezier\Bezier curves\EGC_Bezier\EGC_Bezier.cpp(174,60): warning C4305: 'argument': truncation from 'int' to 'Uint8'
+C:\Users\40744\Desktop\gag lab\EGC_Bezier\Bezier curves\EGC_Bezier\EGC_Bezier.cpp(174,49): warning C4309: 'argument': truncation of constant value
+  vec2.cpp
+  Generating Code...
+  EGC_Bezier.vcxproj -> C:\Users\40744\Desktop\gag lab\EGC_Bezier\Bezier curves\Debug\EGC_Bezier.exe
